@@ -11,4 +11,4 @@ To run the application:
 ```console
     $ npm run all
 ```
-    
+from the repo folder    
